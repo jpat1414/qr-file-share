@@ -1,3 +1,4 @@
 # qr-file-share
 
-![image](https://github.com/user-attachments/assets/c08ea04c-689c-493d-b982-060889c0aded)
+![image](https://github.com/user-attachments/assets/4ed69a40-70b9-4271-a6ff-8e285eac6e2c)
+
