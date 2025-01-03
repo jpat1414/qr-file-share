@@ -18,7 +18,7 @@ This project is a QR-based file transfer system that allows the user to upload a
 
 ** This is my first project; showcases my new skills in full-stack development.
 
-__Built with__
+#__Built with__
 
 Frontend:
 - Node.js
