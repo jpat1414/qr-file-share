@@ -5,7 +5,7 @@
 ---
 
 ### Table of Contents
-You're sections headers will be used to reference location of destination.
+
 
 - [Description](#description)
 
@@ -13,7 +13,9 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
+This project is a QR-based file transfer system that allows the user to upload a file and generates a QR code for sharing. It consists of a React based frontend and a Python backend. The web framework used was FastAPI with Uvicorn asgi server. The system demonstrates file handling, QR code integration/generation, and a user friendly interface. 
 
+** This is my first project; showcases my new skills in full-stack development. **
 
 [Back To The Top](#qr-file-share)
 
